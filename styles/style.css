@@ -1,0 +1,54 @@
+.container-Two {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.player {
+    background-color: #161616;
+
+}
+
+h1 {
+    color: #FFFFFF;
+    margin: 20px;
+
+}
+
+p {
+    color: #FFFFFF;
+    margin: 20px;
+}
+
+#link {
+    background-color: #DD0000;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 30px;
+
+}
+
+.asad {
+    background-color: black;
+    text-align: center;
+    height: 200px;
+    color: #FFFFFF;
+
+}
+
+.lineAyay {
+    display: inline;
+}
+
+/* second website */
